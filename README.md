@@ -6,10 +6,10 @@ SQL projects that i'm a part of it
 
 ![alt text](Project_Database_Sinetron/Database_Requirements.png)
 
-3. Responsi (college project)
+2. Responsi (college project)
    
 ![alt text](Responsi_Praktikum_Basis_Data/Peek.png)
 
-5. Resuldok (college project)
+3. Resuldok (college project)
    
 ![alt text](Project_MRPL/Relationship.png)
